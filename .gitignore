@@ -1,3 +1,2 @@
-a.out
-users.dat
-blocks.dat
+*.out
+*.dat
